@@ -8,7 +8,7 @@
 <h2 align="center">You can follow me on my social networks</h2>
 
 <div align="center">
-    <a href="https://www.instagram.com/daniel_wzoreck/">
+    <a href="https://www.instagram.com/wzoreck.mp3/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/daniel-wzoreck-206384197">
