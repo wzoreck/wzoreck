@@ -1,10 +1,3 @@
-<div align="center">
-    <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="140px">
-    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="140px">
-    <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="140px">
-    <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="140px">
-</div>
-
 <h2 align="center">You can follow me on my social networks</h2>
 
 <div align="center">
